@@ -1,3 +1,3 @@
 # primerproyecto
 mi primer proyecto con github
-Este es un proyecti de prueba 
+Este es un proyecto de prueba 
